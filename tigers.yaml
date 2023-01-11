@@ -1,6 +1,6 @@
 team: Tigers
 
-manager: Brenda
+manager: Thanos
 
 coach: Ruth
 
@@ -11,3 +11,5 @@ members:
 - George
 - Tyler
 - Kim
+
+fecth: this
